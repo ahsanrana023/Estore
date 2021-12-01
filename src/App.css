@@ -1,0 +1,9 @@
+p {
+  color: rosybrown;
+}
+.bitn {
+  background-color: purple;
+}
+.bitn:hover {
+  background-color: pink;
+}
